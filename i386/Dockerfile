@@ -1,5 +1,5 @@
 FROM scratch
-LABEL maintainer='Peter Wu <piterwu@outlook.com>'
+LABEL maintainer='Bean Young <ghoulich@hotmail.com>'
 
 ADD rootfs.tar.xz /
 
